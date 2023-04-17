@@ -1,1 +1,0 @@
-let submitList = document.querySelector("submit");
